@@ -1,0 +1,7 @@
+{
+   "new_post" : {
+        "title": "Test Post",
+        "body": "This is a test post created using Python requests.",
+        "userId": 102
+    }
+}
