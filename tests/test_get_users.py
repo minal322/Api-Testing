@@ -1,5 +1,4 @@
 import pytest
-from selenium.webdriver.common.devtools.v132.fetch import get_response_body
 import random
 
 
